@@ -1,1 +1,3 @@
-# Vue2-Boilerplate
+# Vue2 Setup
+
+Vue2-Boilerplate
